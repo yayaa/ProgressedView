@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.yayandroid.progressedview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.yayandroid.progressedview.ProgressedView
+        android:id="@+id/progressed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:defaultSeekBackgroundColor="#0072C3"
+        app:defaultSeekProgressColor="#0098A2" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/this_is_textview"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+    </com.yayandroid.progressedview.ProgressedView>
+
+</RelativeLayout>

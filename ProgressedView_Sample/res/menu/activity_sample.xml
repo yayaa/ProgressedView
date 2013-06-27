@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/animationType"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Animation Type"/>
+    <item
+        android:id="@+id/reversingType"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Reverse Type"/>
+    <item
+        android:id="@+id/interpolationType"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Interpolation"/>
+    <item
+        android:id="@+id/progressType"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Progress Type"/>
+
+</menu>

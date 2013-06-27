@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.yayandroid.progressedview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.yayandroid.progressedview.ProgressedView
+        android:id="@+id/progressed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:animationTime="1000"
+        app:animationType="swipe_top_to_bottom"
+        app:bringTargetFront="false"
+        app:interpolation="bounce"
+        app:defaultBackgroundColor="#0072C3"
+        app:progressType="just_indeterminate"
+        app:remainSteady="false"
+        app:reversingAnimationType="swipe_top_to_bottom" >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:padding="10dp"
+            android:text="@string/button_text" />
+    </com.yayandroid.progressedview.ProgressedView>
+
+</RelativeLayout>

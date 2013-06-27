@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressedView">
+        <attr name="progressLayout" format="reference" />
+        <attr name="defaultBackgroundColor" format="reference|color" />
+        <attr name="defaultSeekBackgroundColor" format="reference|color" />
+        <attr name="defaultSeekProgressColor" format="reference|color" />
+        <attr name="animationTime" format="reference|integer" />
+        <attr name="remainSteady" format="boolean" />
+        <attr name="bringTargetFront" format="boolean" />
+        <attr name="progressEnable" format="boolean" />
+        <attr name="progressType" format="enum">
+            <enum name="just_indeterminate" value="0" />
+            <enum name="just_seek" value="1" />
+            <enum name="seek_and_indeterminate" value="2" />
+        </attr>
+        <attr name="interpolation" format="enum">
+            <enum name="accelerate" value="0" />
+            <enum name="decelerate" value="1" />
+            <enum name="accelerate_decelerate" value="2" />
+            <enum name="anticipate" value="3" />
+            <enum name="overshoot" value="4" />
+            <enum name="anticipate_overshoot" value="5" />
+            <enum name="cycle" value="6" />
+            <enum name="bounce" value="7" />
+        </attr>
+        <attr name="animationType" format="enum">
+            <enum name="swipe_left_to_right" value="0" />
+            <enum name="swipe_right_to_left" value="1" />
+            <enum name="swipe_top_to_bottom" value="2" />
+            <enum name="swipe_bottom_to_top" value="3" />
+            <enum name="scale_in" value="4" />
+            <enum name="scale_out" value="5" />
+            <enum name="alpha" value="6" />
+        </attr>
+        <attr name="reversingAnimationType" format="enum">
+            <enum name="swipe_left_to_right" value="0" />
+            <enum name="swipe_right_to_left" value="1" />
+            <enum name="swipe_top_to_bottom" value="2" />
+            <enum name="swipe_bottom_to_top" value="3" />
+            <enum name="scale_in" value="4" />
+            <enum name="scale_out" value="5" />
+            <enum name="alpha" value="6" />
+        </attr>
+    </declare-styleable>
+
+</resources>

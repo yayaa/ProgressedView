@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Progressed View</string>
+    <string name="button_text">Click Me!</string>
+    <string name="animation_time">Animation Time:</string>
+    <string name="up">+</string>
+    <string name="down">-</string>
+    <string name="remain_steady">Source should remain steady</string>
+    <string name="bring_front">Should bring target front</string>
+    <string name="menu_info">Tap menu to select animation types and interpolations&#8230;</string>
+    <string name="this_is_textview">This is a textView\nClick!</string>
+    <string name="error">Oops! There was an error, and couldn\'t implement progress or you disabled progressedView. Anyway here is your click&#8230;</string>
+    <string name="advice">To get better understanding of this effect, please try with one of the swipe animations</string>
+
+</resources>
