@@ -70,7 +70,7 @@ You can choose whether you need to display progress with seekbar or just with in
 Interpolations
 --------------
 
-You can also specify interpolations which they are defined as attributes so you can simply implement them from xml, or you can set them from code as well. Used interpolatins:
+You can also specify interpolations which they are defined as attributes so you can simply implement them from xml, or you can set them from code as well. Used interpolations:
 
 ```java
 AccelerateInterpolator, 
