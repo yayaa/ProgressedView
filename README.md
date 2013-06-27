@@ -63,7 +63,9 @@ public enum ProgressType {
 }
 ```
 
-You can choose whether you need to display progress with seekbar or just with indeterminated progress bar. To display seek bar, you can check out examples.
+You can choose whether you need to display progress with seekbar or just with indeterminated progress bar. To display seek bar, you can check out examples;
+[for default seekbar][1]
+[for custom seekbar][2]
 
 Interpolations
 --------------
@@ -97,11 +99,9 @@ app:progressLayout="@layout/custom_progress_layout"
 
 Link
 ----
-Demo is available on [GooglePlayStore] [GooglePlayStoreUrl]
-[GooglePlayStoreUrl]: https://play.google.com/store/apps/details?id=com.yayandroid.progressedview
+Demo is available on [GooglePlayStore] [3]
 
-Inspired by [this project] [InspireUrl]
-[InspireUrl]: http://lab.hakim.se/ladda/
+Inspired by [this project] [4]
 
 License
 -----------
@@ -119,4 +119,12 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-        
+
+
+[1]: https://github.com/yayaa/ProgressedView/blob/master/ProgressedView_Sample/src/com/yayandroid/progressedview/SeekUpdateActivity.java
+
+[2]: https://github.com/yayaa/ProgressedView/blob/master/ProgressedView_Sample/src/com/yayandroid/progressedview/CustomSeekActivity.java
+
+[3]: https://play.google.com/store/apps/details?id=com.yayandroid.progressedview
+
+[4]: http://lab.hakim.se/ladda/
