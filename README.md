@@ -64,7 +64,7 @@ public enum ProgressType {
 ```
 
 You can choose whether you need to display progress with seekbar or just with indeterminated progress bar. To display seek bar, you can check out examples;
-[for default seekbar][1]
+[for default seekbar][1], 
 [for custom seekbar][2]
 
 Interpolations
