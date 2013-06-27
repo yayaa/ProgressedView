@@ -95,7 +95,10 @@ If you want to show a custom progressbar, or custom seekbar, or anything else. J
 app:progressLayout="@layout/custom_progress_layout"
 ```
 
-Demo
+Link
 ----
 Demo is available on [GooglePlayStore] [GooglePlayStoreUrl]
 [GooglePlayStoreUrl]: https://play.google.com/store/apps/details?id=com.yayandroid.progressedview
+
+Inspired by [this project] [InspireUrl]
+[InspireUrl]: http://lab.hakim.se/ladda/
