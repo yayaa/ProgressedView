@@ -99,7 +99,7 @@ app:progressLayout="@layout/custom_progress_layout"
 
 Link
 ----
-Demo is available on [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.yayandroid.progressedview)
+[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.yayandroid.progressedview)
 
 Inspired by [this project] [3]
 
