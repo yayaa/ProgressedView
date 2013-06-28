@@ -99,9 +99,9 @@ app:progressLayout="@layout/custom_progress_layout"
 
 Link
 ----
-Demo is available on [GooglePlayStore] [3]
+Demo is available on [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.yayandroid.progressedview)
 
-Inspired by [this project] [4]
+Inspired by [this project] [3]
 
 License
 -----------
@@ -125,6 +125,4 @@ License
 
 [2]: https://github.com/yayaa/ProgressedView/blob/master/ProgressedView_Sample/src/com/yayandroid/progressedview/CustomSeekActivity.java
 
-[3]: https://play.google.com/store/apps/details?id=com.yayandroid.progressedview
-
-[4]: http://lab.hakim.se/ladda/
+[3]: http://lab.hakim.se/ladda/
