@@ -1,7 +1,7 @@
 ProgressedView
 ==============
 
-`ProgressedView` provides you to show progress when user clicks to any view, and then you're done with the task reverse it back to view again. This view extends `RelativeLayout`, so it easily implement in xml or code. 
+`ProgressedView` provides you to show progress when user clicks to any view, and then you're done with the task reverse it back to view again. This view extends `RelativeLayout`, so it is easy to implement in xml or by code. 
 
 `ProgressedView` can host only one child. Becuase it adds another view, which contains progressbar and seekbar, just with exact layoutparams with source view. 
 
@@ -32,7 +32,7 @@ Implementation
     </com.yayandroid.progressedview.ProgressedView>
 ```
 
-You can specify almost everything in xml, and because it extends from `RelativeLayout` you can put your view inside it as easy as it is Relative. You don't have to give any of these specifications, but otherwise library will be using default variables. All variables have setter methods, so you can modify themn in code.
+You can specify almost everything in xml, and because it extends from `RelativeLayout` you can put your view inside it as easy as it is Relative. You don't have to give any of these specifications, but otherwise library will be using default variables. All variables have setter methods, so you can modify them in code.
 
 There are two important flags:
 
