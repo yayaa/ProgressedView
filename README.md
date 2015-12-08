@@ -105,7 +105,7 @@ You can download sample project below from Google Play Store.
 
 Inspired by ['Ladda' project] [3]
 
-License
+License [![License](https://img.shields.io/badge/License-Apache_v2.0-blue.svg?style=flat)](http://opensource.org/licenses/Apache-2.0)
 -----------
 
     Copyright 2013 yayandroid
