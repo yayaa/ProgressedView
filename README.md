@@ -1,5 +1,7 @@
 ProgressedView
 ==============
+[![License](https://img.shields.io/badge/License-Apache_v2.0-blue.svg?style=flat)](http://opensource.org/licenses/Apache-2.0)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 `ProgressedView` provides you to show progress when user clicks to any view, and then you're done with the task reverse it back to view again. This view extends `RelativeLayout`, so it is easy to implement in xml or by code. 
 
@@ -103,9 +105,9 @@ You can download sample project below from Google Play Store.
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.yayandroid.progressedview)
 
-Inspired by ['Ladda' project] [3]
+Inspired by ['Ladda' project][3]
 
-License [![License](https://img.shields.io/badge/License-Apache_v2.0-blue.svg?style=flat)](http://opensource.org/licenses/Apache-2.0)
+License 
 -----------
 
     Copyright 2013 yayandroid
